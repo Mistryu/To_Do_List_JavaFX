@@ -1,0 +1,40 @@
+
+#top {
+    -fx-background-color: rgb(199, 135, 17);
+    -fx-font-size: 25px;
+    -fx-padding: 10px 0px;
+    -fx-border-style: solid;
+    -fx-border-width: 5px;
+    -fx-border-color: rgb(170, 135, 20);
+    -fx-border-radius: 10px;
+  }
+
+#layout {
+    -fx-background-color: rgb(224, 167, 93);
+}
+
+#top-of-mid {
+    -fx-font-size: 20px;
+    -fx-background-color: rgb(212, 138, 28);
+    -fx-padding: 10px 40px;
+    -fx-spacing: 150px;
+}
+
+#time {
+    -fx-padding: 10px 100px 10px 20px;
+    -fx-spacing: 50px;
+}
+
+#time .text-area .content{
+    -fx-background-color: rgb(212, 138, 28);
+}
+
+#time .text-area {
+    -fx-background-color: rgb(224, 167, 93);
+    -fx-border: 0px;
+}
+
+#time .text-field{
+    -fx-background-color: rgb(212, 138, 28);
+    -fx-border: 0px;
+}
